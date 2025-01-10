@@ -18,8 +18,8 @@ Explore LangChain's capabilities by seamlessly importing and invoking a chat mod
 | ------ | ------ |
 | [Slides](./01-slides/README.md) | Introduction to LangChain |
 | [Intro to LangChain](./02-intro-LangChain/README.md) | Import and call a chat model in LangChain and work with Prompt Templates  |
-| [Loaders and Splitters](./02-loaders-and-splitters/README.md) | Load and split documents to use with advanced prompts |
-| [Multiple Chains](./03-multiple-chains/README.md) | Build sequential chains |
+| [Loaders and Splitters](./03-loaders-and-splitters/README.md) | Load and split documents to use with advanced prompts |
+| [Multiple Chains](./04-multiple-chains/README.md) | Build sequential chains |
 
 
 ## Prerequisites
